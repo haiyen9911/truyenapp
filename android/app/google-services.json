@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565602978181",
+    "firebase_url": "https://thirteen-manga-demo.firebaseio.com",
+    "project_id": "thirteen-manga-demo",
+    "storage_bucket": "thirteen-manga-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565602978181:android:dd9c1dba9f096fd8e39cec",
+        "android_client_info": {
+          "package_name": "com.thirteen_manga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565602978181-n3vejhn2ikor2dbp5a9vkmbvpb2af2kt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thirteen_manga",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "565602978181-ao785e28ji58i9cnk22p76k2d1ejdo7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzFFxOZF3NKJzQzkkMNyyXH0fJTkbBcmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565602978181-ao785e28ji58i9cnk22p76k2d1ejdo7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
